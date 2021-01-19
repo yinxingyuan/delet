@@ -1,0 +1,49 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCSharpDeleteFile.Services.Interfaces", "TestCSharpDeleteFile.Services.Interfaces\TestCSharpDeleteFile.Services.Interfaces.csproj", "{47973410-f9a4-4ece-8441-30f165bdc43e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCSharpDeleteFile.Entities", "TestCSharpDeleteFile.Entities\TestCSharpDeleteFile.Entities.csproj", "{59a64821-b431-4e9d-9635-ffd356247017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCSharpDeleteFile.Daos.Interfaces", "TestCSharpDeleteFile.Daos.Interfaces\TestCSharpDeleteFile.Daos.Interfaces.csproj", "{7cf08f8b-c51d-4aa9-bb29-9b9bbd7c9968}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCSharpDeleteFile.Daos", "TestCSharpDeleteFile.Daos\TestCSharpDeleteFile.Daos.csproj", "{8dffba79-6b7c-4861-ae30-7c976460c2fd}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCSharpDeleteFile.Services", "TestCSharpDeleteFile.Services\TestCSharpDeleteFile.Services.csproj", "{c4c43a5a-5d6e-43e1-8183-58e8e8649ad5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCSharpDeleteFile.Web", "TestCSharpDeleteFile.Web\TestCSharpDeleteFile.Web.csproj", "{f8a30dc3-108e-408a-ac1e-0af4db5b2451}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {47973410-f9a4-4ece-8441-30f165bdc43e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {47973410-f9a4-4ece-8441-30f165bdc43e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {47973410-f9a4-4ece-8441-30f165bdc43e}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {47973410-f9a4-4ece-8441-30f165bdc43e}.Release|Any CPU.Build.0 = Release|Any CPU
+        {59a64821-b431-4e9d-9635-ffd356247017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {59a64821-b431-4e9d-9635-ffd356247017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {59a64821-b431-4e9d-9635-ffd356247017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {59a64821-b431-4e9d-9635-ffd356247017}.Release|Any CPU.Build.0 = Release|Any CPU
+        {7cf08f8b-c51d-4aa9-bb29-9b9bbd7c9968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {7cf08f8b-c51d-4aa9-bb29-9b9bbd7c9968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {7cf08f8b-c51d-4aa9-bb29-9b9bbd7c9968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {7cf08f8b-c51d-4aa9-bb29-9b9bbd7c9968}.Release|Any CPU.Build.0 = Release|Any CPU
+        {8dffba79-6b7c-4861-ae30-7c976460c2fd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {8dffba79-6b7c-4861-ae30-7c976460c2fd}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {8dffba79-6b7c-4861-ae30-7c976460c2fd}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {8dffba79-6b7c-4861-ae30-7c976460c2fd}.Release|Any CPU.Build.0 = Release|Any CPU
+        {c4c43a5a-5d6e-43e1-8183-58e8e8649ad5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {c4c43a5a-5d6e-43e1-8183-58e8e8649ad5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {c4c43a5a-5d6e-43e1-8183-58e8e8649ad5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {c4c43a5a-5d6e-43e1-8183-58e8e8649ad5}.Release|Any CPU.Build.0 = Release|Any CPU
+        {f8a30dc3-108e-408a-ac1e-0af4db5b2451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {f8a30dc3-108e-408a-ac1e-0af4db5b2451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {f8a30dc3-108e-408a-ac1e-0af4db5b2451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {f8a30dc3-108e-408a-ac1e-0af4db5b2451}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+EndGlobal
